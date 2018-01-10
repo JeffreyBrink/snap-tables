@@ -1,0 +1,11 @@
+table {
+	border: 1px solid black;
+}
+
+Table {
+	border-spacing: 20px 2px;
+}
+
+div
+{border-style: dotted;
+}
