@@ -2,6 +2,7 @@ body {
 	background-image: url("kraken.jpg");
 }
 
+
 h1 {
 	text-shadow: 4px 4px 2px rgb(0,255,255);
 	color: whitesmoke;
@@ -9,15 +10,21 @@ h1 {
 }
 
 td {
-	border: 1px solid black;/* Make cells a bit taller */
+	font-size: 18px;
+	text-shadow: 4px 4px 2px rgb(0,255,255);
 	color: white;
-	background-color : black;
+}
+
+td { overflow:hidden;white-space:nowrap;
+	text-shadow: 4px 4px 2px rgb(0,255,255);
 }
 
 Th {
+	font-size: 25px;
 	border-spacing: 20px 2px;
 	background-color: black;
 	color: aliceblue;
+	text-shadow: 4px 4px 2px rgb(0,255,255);
 }
 
 
