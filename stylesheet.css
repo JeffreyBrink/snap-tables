@@ -1,11 +1,11 @@
-table {
+td {
 	border: 1px solid black;
+	background-color: cadetblue;
 }
 
-Table {
+Th {
 	border-spacing: 20px 2px;
+	background-color: antiquewhite;
 }
 
-div
-{border-style: dotted;
-}
+
